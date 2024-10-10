@@ -17,10 +17,10 @@ Welcome to the **Dungeons of knowledge**! This game is designed to test your kno
 
 ## Game Structure
 
- **Level 1** - Basic English and Grammar.
- **Level 2** - Basic Math & Programming.
- **Level 3** - History and Geography.
- **Level 4** - Chemistry and Biology.
+ 1. **Level 1** - Basic English and Grammar.
+ 2. **Level 2** - Basic Math & Programming.
+ 3. **Level 3** - History and Geography.
+ 4. **Level 4** - Chemistry and Biology.
 
 ## Installation
 
