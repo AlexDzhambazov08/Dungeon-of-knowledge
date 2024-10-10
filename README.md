@@ -32,7 +32,7 @@ Welcome to the **Dungeons of knowledge**! This game is designed to test your kno
 
 2. **Build and Run**
 
-   Open Unity Hub and click on "Add project from disk" 
+   Open Unity Hub and click on "Add project from disk" and select the folder you just downloaded
 
 3. **Play the Game**
 
