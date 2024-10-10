@@ -17,10 +17,10 @@ Welcome to the **Dungeons of knowledge**! This game is designed to test your kno
 
 ## Game Structure
 
-1. **Level 1** - Basic English and Grammar.
-2. **Level 2** - Basic Math & Programming.
-3. **Level 3** - History and Geography.
-4. **Level 4** - Chemistry and Biology.
+ 1. **Level 1** - Basic English and Grammar.
+ 2. **Level 2** - Basic Math & Programming.
+ 3. **Level 3** - History and Geography.
+ 4. **Level 4** - Chemistry and Biology.
 
 ## Installation
 
@@ -40,7 +40,7 @@ Welcome to the **Dungeons of knowledge**! This game is designed to test your kno
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
