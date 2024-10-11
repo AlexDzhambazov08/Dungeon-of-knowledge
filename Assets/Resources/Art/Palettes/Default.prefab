@@ -5012,7 +5012,7 @@ Tilemap:
       - {fileID: -118553666, guid: 1ef0002018e99eb48bd188f61ac909ef, type: 3}
       - {fileID: -118553666, guid: 1ef0002018e99eb48bd188f61ac909ef, type: 3}
       - {fileID: 187898594, guid: 1ef0002018e99eb48bd188f61ac909ef, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 8
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 19, y: -23, z: 0}
