@@ -199,7 +199,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AIR_joystick_stick320_0: 2988222481573546406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
